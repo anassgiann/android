@@ -498,5 +498,5 @@
   <project path="kernel/TCT/Vodafone_875" name="TCT/kernel_source" remote="github" revision="jb4.3" />
   <project path="device/TCT/Vodafone_875" name="TCT/device_source" remote="github" revision="jb4.3" />
   <project path="device/TCT/Vodafone_875" name="TCT/device-common_source" remote="github" revision="jb4.3" />
-  <project path="vendor/TCT" name="TCT/androi_vendor_TCT" remote="github" revision="jb4.3" />
+  <project path="vendor/TCT" name="TCT/android_vendor_TCT" remote="github" revision="jb4.3" />
 </manifest>
